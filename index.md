@@ -16,7 +16,7 @@ Check below for further qualifications.
 # Contract work
 If you have a project that you would like to discuss, I will be happy to have an open conversation with you. Customer satisfaction is my top priority. My rates are competitive and the initial consultation is of course **free**. 
 
-**Email me at salvoventura@gmail.com**
+**Email me at [salvoventura@gmail.com](mailto:salvoventura@gmail.com)**
 
 # Referral links
 Here a list of referral links that I have collected, and which include what **you and I** get from using my link. I only post about services that I personally use and recommend. 
@@ -66,5 +66,5 @@ I am driven to providing good value to teams and projects, and interested in par
 # Contact
 If you have a project that you would like to discuss, I will be happy to have an open conversation with you. My rates are competitive and the initial consultation is of course **free**. 
 
-**Email me at salvoventura@gmail.com**
+**Email me at [salvoventura@gmail.com](mailto:salvoventura@gmail.com)**
 
