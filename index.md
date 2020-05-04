@@ -1,17 +1,17 @@
 # Salvatore Ventura
 
 Hi!
-now that you know my name, you will probably want to know a little more about me. I am a general-purpose, mostly self-taught programmer. I have programmed in many languages over decades (1) however I think there are too many languages out there, so I (currently) prefer **Python**. 
+now that you know my name, you will probably want to know a little more about me. I am a general-purpose, mostly self-taught programmer. I have programmed in many (^) languages over decades, however I think there are too many languages out there, so I (currently) prefer **Python**. 
 
 Every job has its own tools, which is why I believe that in problem-solving data-structures and algorithms come first.
 
 I have acquired a lot of skills around *automation* and *virtualization*, including a big focus on **REST APIs**. 
 
-For example, in my repositories, you will find [PyUnsplash](https://pyunsplash.readthedocs.io/en/latest/index.html) and [PyPexels](https://pypexels.readthedocs.io/en/latest/index.html),  as two Python wrappers for REST APIs.
+In my repositories, you will find Python wrappers for REST APIs, a Kotlin sample Android App, a cross-browser addon/extension for tab management, and more. Not everything I do ends up on github though.
 
 Check below for further qualifications.
 
-> (1)  Pascal, C, C++, Delphi, MATLAB, TCL, Bash shell, Java, Javascript, PERL, PHP, Python, Kotlin and probably something else that I forgot.
+> (^)  Pascal, C, C++, Delphi, MATLAB, TCL, Bash shell, Java, Javascript, PERL, PHP, Python, Kotlin and probably something.
 
 # Contract work
 If you have a project that you would like to discuss, I will be happy to have an open conversation with you. Customer satisfaction is my top priority. My rates are competitive and the initial consultation is of course **free**. 
